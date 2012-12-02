@@ -1,0 +1,1 @@
+This is an attempt to conceptualize an ELT publishing project within the authoring / collaborative editing environment of github.
